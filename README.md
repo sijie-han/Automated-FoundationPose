@@ -1,5 +1,6 @@
 # Automated-Foundation-Pose
 Contains scripts which provide interfaces with real robots and perception pipelines. Finally will be available as a ros package wit a launch file to launch all the nodes.
+The SAM2 Integrated version can be found in the eval branch
 
 
 # Pose estimation ROS package
